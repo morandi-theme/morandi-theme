@@ -2,27 +2,41 @@
 
 > A soft, muted terminal color palette inspired by Morandi tones.
 
+&ensp;[<kbd> <br> Terminal <br> </kbd>](#terminal)&ensp;
+&ensp;[<kbd> <br> Base16 <br> </kbd>](#base16)&ensp;
+&ensp;[<kbd> <br> Full Palette <br> </kbd>](full-palette.md)&ensp;
+&ensp;[<kbd> <br> Recolor Wallpaper <br> </kbd>](repalette.md)&ensp;
+
+## Contents
+
+1. [Terminal](#terminal)
+   * [Preview](#preview)
+   * [Quick Start](#quick-start)
+2. [Base16](#base16)
+   * [Preview](#preview-1)
+   * [Quick Start](#quick-start-1)
+
 ## Terminal 
 
 ### Preview
 
 ![#05060a](https://fakeimg.pl/96/05060a/fffaf4/?text=%2305060a&font=noto&font_size=12)
-![#fffaf4](https://fakeimg.pl/96/fffaf4/05060a/?text=%23fffaf4&font=noto&font_size=12)
 ![#965455](https://fakeimg.pl/96/965455/fffaf4/?text=%23965455&font=noto&font_size=12)
 ![#7b8b6f](https://fakeimg.pl/96/7b8b6f/fffaf4/?text=%237b8b6f&font=noto&font_size=12)
 ![#edda95](https://fakeimg.pl/96/edda95/05060a/?text=%23edda95&font=noto&font_size=12)
 ![#8696a7](https://fakeimg.pl/96/8696a7/05060a/?text=%238696a7&font=noto&font_size=12)
 ![#c9c0d3](https://fakeimg.pl/96/c9c0d3/05060a/?text=%23c9c0d3&font=noto&font_size=12)
 ![#b4c9c8](https://fakeimg.pl/96/b4c9c8/05060a/?text=%23b4c9c8&font=noto&font_size=12)
+![#fdf9ee](https://fakeimg.pl/96/fdf9ee/05060a/?text=%23fdf9ee&font=noto&font_size=12)
 
 ![#20233c](https://fakeimg.pl/96/20233c/fffaf4/?text=%2320233c&font=noto&font_size=12)
-![#fdf9ee](https://fakeimg.pl/96/fdf9ee/05060a/?text=%23fdf9ee&font=noto&font_size=12)
 ![#a27e7e](https://fakeimg.pl/96/a27e7e/05060a/?text=%23a27e7e&font=noto&font_size=12)
 ![#96a48b](https://fakeimg.pl/96/96a48b/05060a/?text=%2396a48b&font=noto&font_size=12)
 ![#f0e3af](https://fakeimg.pl/96/f0e3af/05060a/?text=%23f0e3af&font=noto&font_size=12)
 ![#9ca8b8](https://fakeimg.pl/96/9ca8b8/05060a/?text=%239ca8b8&font=noto&font_size=12)
 ![#eee5f8](https://fakeimg.pl/96/eee5f8/05060a/?text=%23eee5f8&font=noto&font_size=12)
 ![#e0ebdb](https://fakeimg.pl/96/e0ebdb/05060a/?text=%23e0ebdb&font=noto&font_size=12)
+![#fffaf4](https://fakeimg.pl/96/fffaf4/05060a/?text=%23fffaf4&font=noto&font_size=12)
 
 ### Quick Start
 
@@ -45,7 +59,7 @@ color14='#e0ebdb'
 color15='#fffaf4'
 ```
 
-## base16
+## Base16
 
 ### Preview
 
@@ -108,3 +122,7 @@ base0D = "#8696a7"
 base0E = "#a27e7e"
 base0F = "#6b5152"
 ```
+
+
+
+

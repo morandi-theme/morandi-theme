@@ -7,15 +7,6 @@
 &ensp;[<kbd> <br> Full Palette <br> </kbd>](full-palette.md)&ensp;
 &ensp;[<kbd> <br> Recolor Wallpaper <br> </kbd>](repalette.md)&ensp;
 
-## Contents
-
-1. [Terminal](#terminal)
-   * [Preview](#preview)
-   * [Quick Start](#quick-start)
-2. [Base16](#base16)
-   * [Preview](#preview-1)
-   * [Quick Start](#quick-start-1)
-
 ## Terminal 
 
 ### Preview

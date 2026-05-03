@@ -1,6 +1,7 @@
 # Full Morandi Color Palette (62 Colors) 
 
 ![#20233c](https://placehold.co/96x96/20233c/fffaf4/?text=%2320233c&font=noto&font_size=12)
+![#17192b](https://placehold.co/96x96/17192b/fffaf4/?text=%2317192b&font=noto&font_size=12)
 ![#0e101b](https://placehold.co/96x96/0e101b/fffaf4/?text=%230e101b&font=noto&font_size=12)
 ![#05060a](https://placehold.co/96x96/05060a/fffaf4/?text=%2305060a&font=noto&font_size=12)
 ![#384277](https://placehold.co/96x96/384277/fffaf4/?text=%23384277&font=noto&font_size=12)
